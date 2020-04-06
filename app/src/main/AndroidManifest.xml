@@ -9,7 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Layout_menu"></activity>
+        <activity android:name=".Activity_Ls_tp"></activity>
+        <activity android:name=".Activity_kl_tp" />
+        <activity android:name=".Activity_Ls_s3" />
+        <activity android:name=".Activity_kl_s3" />
+        <activity android:name=".Activity_Ls_PP" />
+        <activity android:name=".Activity_kl_PP" />
+        <activity android:name=".Activity_Ls_lingkaran" />
+        <activity android:name=".Activity_kl_lingkaran" />
+        <activity android:name=".Activity_kl_persegi" />
+        <activity android:name=".Activity_Ls_persegi" />
+        <activity android:name=".Layout_menu" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
